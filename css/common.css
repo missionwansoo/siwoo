@@ -1,0 +1,89 @@
+html,
+body{
+    font-family: 'SpoqaHanSans','Nexa',sans-serif;
+    color: #333;
+    font-size: 1.7rem;
+    line-height: 1.6;
+    font-weight: normal;
+    background: #e0dace;
+}
+
+#m_mian{
+    position: relative;
+}
+#m_mian .wrap{
+    background: url(img/bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5rem 0;
+}
+#m_mian .wrap .main_title{
+    font-family: 'InkLipquid';
+    text-align: center;
+    font-size: 3rem;
+    line-height: 1;
+}
+#m_mian .wrap .main_pf{
+    max-width: 15rem;
+    margin: 0 auto;
+    margin-top: 1rem;
+}
+#m_mian .wrap .main_tit{
+    text-align: center;
+    font-size: 0.8rem;
+    color: #5f5f5f;
+    margin: 2rem 0;
+}
+#m_mian .wrap .main_tit .flex{
+justify-content: center;
+}
+#m_mian .wrap .main_tit .flex div{
+    margin: 0 1rem;
+}
+#m_mian .wrap .main_tit .flex div b{
+    font-weight: bold;
+    margin-right: 0.5rem;
+}
+#m_mian .wrap .main_place{
+    text-align: center;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #7200ff;
+    margin: 2rem 0;
+}
+#m_mian .wrap .main_map{
+    text-align: center;
+    font-size: 0.8rem;
+    color: #5f5f5f;
+    margin: 2rem 0;
+}
+#m_mian .wrap .main_map .flex{
+    justify-content: center;
+}
+#m_mian .wrap .main_map .flex div{
+    margin: 0 0.5rem;
+}
+
+
+
+@media screen and (max-width: 1200px){
+    
+}
+
+@media screen and (max-width: 1024px){
+
+}
+
+@media screen and (max-width: 780px){
+   
+}
+
+@media screen and (max-width: 480px){
+    
+}
+
+@media screen and (max-width: 360px){ 
+    
+}
+
