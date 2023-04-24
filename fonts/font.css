@@ -38,5 +38,19 @@
         url('Nexa-Bold.ttf') format('truetype');
     font-weight:700;
 }
+@font-face{
+    font-family:'KIMM_Bold';
+    src:url('KIMM_Bold') format('woff'),
+        url('KIMM_Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face{
+    font-family:'KIMM_Light';
+    src:url('KIMM_Light') format('woff'),
+        url('KIMM_Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
 
 
